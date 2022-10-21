@@ -1,0 +1,225 @@
+[
+    {
+       "jornada": "2",
+       "pronosticos": [
+          {
+             "jugador": "Dani",
+             "pronostico": "X2211X21XX12X111"
+          },
+          {
+             "jugador": "Aure",
+             "pronostico": "1X2X12X12X111111"
+          },
+          {
+             "jugador": "Paco",
+             "pronostico": "12X11211211XX111"
+          },
+          {
+             "jugador": "Omar",
+             "pronostico": "1X21122X1X1X1111"
+          }
+       ]
+    },
+    {
+       "jornada": "3",
+       "pronosticos": [
+          {
+             "jugador": "Dani",
+             "pronostico": "2X2212X1XX2X1112"
+          },
+          {
+             "jugador": "Aure",
+             "pronostico": "X1X212X1X21X1212"
+          },
+          {
+             "jugador": "Paco",
+             "pronostico": "11X21221XX111X12"
+          },
+          {
+             "jugador": "Omar",
+             "pronostico": "X12X12X1X11X1212"
+          }
+       ]
+    },
+    {
+       "jornada": "4",
+       "pronosticos": [
+          {
+             "jugador": "Dani",
+             "pronostico": "X12X211X2X1X1111"
+          },
+          {
+             "jugador": "Aure",
+             "pronostico": "X1XX1111121X2111"
+          },
+          {
+             "jugador": "Paco",
+             "pronostico": "1122111X1X11XX11"
+          },
+          {
+             "jugador": "Omar",
+             "pronostico": "1X22XX11X2X2X111"
+          }
+       ]
+    },
+    {
+       "jornada": "6",
+       "pronosticos": [
+          {
+             "jugador": "Dani",
+             "pronostico": "12X1X21X2X12X212"
+          },
+          {
+             "jugador": "Aure",
+             "pronostico": "XX21221X22XX2112"
+          },
+          {
+             "jugador": "Paco",
+             "pronostico": "2X2112XX2111XX12"
+          },
+          {
+             "jugador": "Omar",
+             "pronostico": "1X2X2X1X1X11X112"
+          }
+       ]
+    },
+    {
+       "jornada": "8",
+       "pronosticos": [
+          {
+             "jugador": "Dani",
+             "pronostico": "212X1XX1X21X1111"
+          },
+          {
+             "jugador": "Aure",
+             "pronostico": "X11X1X1X121X1111"
+          },
+          {
+             "jugador": "Paco",
+             "pronostico": "111X1111121X2111"
+          }
+       ]
+    },
+    {
+       "jornada": "9",
+       "pronosticos": [
+          {
+             "jugador": "Dani",
+             "pronostico": "X2121X11X22X2120"
+          },
+          {
+             "jugador": "Aure",
+             "pronostico": "12112221XX22X220"
+          },
+          {
+             "jugador": "Paco",
+             "pronostico": "12X1XX1212X2X220"
+          },
+          {
+             "jugador": "Omar",
+             "pronostico": "1X212X11X2X22220"
+          }
+       ]
+    },
+    {
+       "jornada": "10",
+       "pronosticos": [
+          {
+             "jugador": "Dani",
+             "pronostico": "X1X2X2X11X2X1X21"
+          },
+          {
+             "jugador": "Aure",
+             "pronostico": "21X2X221X1X11X21"
+          },
+          {
+             "jugador": "Paco",
+             "pronostico": "21X222X111XX2121"
+          },
+          {
+             "jugador": "Omar",
+             "pronostico": "2122X211X121X121"
+          }
+       ]
+    },
+    {
+       "jornada": "12",
+       "pronosticos": [
+          {
+             "jugador": "Dani",
+             "pronostico": "1112X121X1X2X102"
+          },
+          {
+             "jugador": "Aure",
+             "pronostico": "2122XX11X1121102"
+          },
+          {
+             "jugador": "Paco",
+             "pronostico": "X1X22111X1111102"
+          },
+          {
+             "jugador": "Omar",
+             "pronostico": "X1X22X21X111X102"
+          }
+       ]
+    },
+    {
+       "jornada": "14",
+       "pronosticos": [
+          {
+             "jugador": "Dani",
+             "pronostico": "112X211X221X11M1"
+          },
+          {
+             "jugador": "Aure",
+             "pronostico": "X12121112X21X1M1"
+          },
+          {
+             "jugador": "Paco",
+             "pronostico": "11X121X1XXX1XXM1"
+          },
+          {
+             "jugador": "Omar",
+             "pronostico": "X1X212X1X121X1M1"
+          }
+       ]
+    },
+    {
+       "jornada": "15",
+       "pronosticos": [
+          {
+             "jugador": "Dani",
+             "pronostico": "X212212X121X2111"
+          },
+          {
+             "jugador": "Aure",
+             "pronostico": "1X12112X1211X211"
+          },
+          {
+             "jugador": "Paco",
+             "pronostico": "1212X121X211X111"
+          }
+       ]
+    },
+    {
+       "jornada": "16",
+       "pronosticos": [
+          {
+             "jugador": "Dani",
+             "pronostico": ""
+          },
+          {
+             "jugador": "Aure",
+             "pronostico": "XX11X2X11X221X"
+          },
+          {
+             "jugador": "Paco",
+             "pronostico": "1211112111X2X1"
+          },
+          {
+             "jugador": "Omar",
+             "pronostico": ""
+          }
+       ]
+    }
+ ]
