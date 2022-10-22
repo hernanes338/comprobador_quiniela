@@ -4,7 +4,7 @@ list_resultados = results_history.list_resultados
 
 list_pronosticos = bets_history.list_pronosticos
 
-jornada_comprobacion = '14'
+jornada_comprobacion = '16'
 
 resultado = ''
 
@@ -37,8 +37,8 @@ for i in range(len(list_pronosticos)):
                     aciertos += 1
     
             # comprobacion pleno al 15 (012M)
-                if aciertos == 14 and pleno15 == pronostico[-2:]:
-                    aciertos += 1
+            if aciertos == 14 and pleno15 == pronostico[-2:]:
+                aciertos += 1
                 
             list_aciertos.append(
                 {'jornada': jornada_comprobacion,
