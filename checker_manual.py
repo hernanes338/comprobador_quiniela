@@ -4,7 +4,7 @@ list_resultados = results_history.list_resultados
 
 list_pronosticos = bets_history.list_pronosticos
 
-jornada_comprobacion = '16'
+jornada_comprobacion = ''
 
 resultado = ''
 
