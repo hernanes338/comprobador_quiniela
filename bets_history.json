@@ -232,5 +232,67 @@
             "pronostico": "121XX2X111X22121"
          }
       ]
+   },
+   {
+      "temporada": "2022-2023",
+      "jornada": "18",
+      "pronosticos": [
+         {
+            "jugador": "Dani",
+            "pronostico": "2112XX111X2X1X11"
+         },
+         {
+            "jugador": "Aure",
+            "pronostico": "11222X11X21X1111"
+         },
+         {
+            "jugador": "Paco",
+            "pronostico": "X12221111XXX1211"
+         },
+         {
+            "jugador": "Omar",
+            "pronostico": "1XX22X11121X1211"
+         }
+      ]
+   },
+   {
+      "temporada": "2022-2023",
+      "jornada": "20",
+      "pronosticos": [
+         {
+            "jugador": "Dani",
+            "pronostico": "X121121X2XX1120M"
+         },
+         {
+            "jugador": "Aure",
+            "pronostico": "1X2111X122X2110M"
+         },
+         {
+            "jugador": "Paco",
+            "pronostico": "11X111111XXX120M"
+         }
+      ]
+   },
+   {
+      "temporada": "2022-2023",
+      "jornada": "21",
+      "pronosticos": [
+         {
+            "jugador": "Dani",
+            "pronostico": "1121X22X122X1X20"
+         },
+         {
+            "jugador": "Aure",
+            "pronostico": "11X21X2XX2X11120"
+         },
+         {
+            "jugador": "Paco",
+            "pronostico": "X12X1221222X1120"
+         },
+         {
+            "jugador": "Omar",
+            "pronostico": "X12X1X21X2X11120"
+         }
+      ]
    }
 ]
