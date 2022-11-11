@@ -16,6 +16,8 @@ for i in range(len(list_pronosticos)):
     resultado = ''
     signos = ''
     pleno15 = ''
+    list_aciertos.append({'jornada': jornada})
+
     for x in range(len(list_resultados)):
         if list_pronosticos[i]['jornada'] == list_resultados[x]['jornada']:
             resultado = list_resultados[x]['combinacion']
@@ -39,8 +41,7 @@ for i in range(len(list_pronosticos)):
 
         if resultado != '': 
             list_aciertos.append(
-                {'jornada': jornada,
-                'jugador': jugador,
+                {'jugador': jugador,
                 'aciertos': aciertos,
                 'pronostico': pronostico})
 
