@@ -17,6 +17,7 @@ signos = resultado[:14]
 
 pleno15 = resultado[14:]
 
+# introducir pronostico para la jornada en marcha
 pronostico = ''
 
 aciertos = 0
