@@ -294,5 +294,27 @@
             "pronostico": "X12X1X21X2X11120"
          }
       ]
+   },
+   {
+      "temporada": "2022-2023",
+      "jornada": "33",
+      "pronosticos": [
+         {
+            "jugador": "Dani",
+            "pronostico": "2X1221X2X11X1110"
+         },
+         {
+            "jugador": "Aure",
+            "pronostico": "X1122X122111X110"
+         },
+         {
+            "jugador": "Paco",
+            "pronostico": "X112X2X1111X1110"
+         },
+         {
+            "jugador": "Omar",
+            "pronostico": "1XX211X1XX111110"
+         }
+      ]
    }
 ]
